@@ -1,10 +1,10 @@
-# 2025 UG Programming Class
+# 2025 GSE Programming Class
 
-This repository for 2025/Fall/BigData and its applications, including programming exercises and homework assignments.
+This repository for 2025/Fall/GSE (Graduate School of Economics) programming course, including programming exercises, homework assignments, and course materials.
 
-## Week 1 Homework - Python Basics
+## Course Materials
 
-This repository contains homework assignments for the UG Programming Course.
+This repository contains course materials and assignments for the GSE Programming Course.
 
 ### Files in this repository:
 - `working.py` - Initial "Hello World" program
@@ -15,6 +15,8 @@ This repository contains homework assignments for the UG Programming Course.
   - Functions
   - String manipulation
   - List comprehensions (bonus)
+- `0_numpy.py` and `0_numpy.md` - NumPy tutorial materials
+- Various PDF course materials and references
 
 ### How to run the homework:
 ```bash
@@ -28,6 +30,7 @@ python homework_week1.py
 4. **Functions**: Creating reusable code blocks
 5. **String Operations**: Manipulating text data
 6. **List Comprehensions**: Advanced Python syntax for efficient list creation
+7. **NumPy**: Numerical computing with Python
 
 ### Assignment Status: ✅ Complete
 
@@ -35,6 +38,5 @@ All exercises have been implemented and tested successfully.
 
 ---
 *Student: [Your Name]*  
-*Course: UG Programming - BigData and Applications*  
-*Date: January 16, 2025*
-# 2025-class-gse
+*Course: GSE Programming - Economics and Data Analysis*  
+*Date: September 17, 2025*
